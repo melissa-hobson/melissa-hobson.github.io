@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 I'm an astrophysicist working on exoplanet detection and characterization through radial velocities and transit photometry. I'm currently a postdoctoral researcher at the Max Planck Institute for Astronomy in Heidelberg, Germany, where I'm investigating warm giant planets. 
 
 Previously, I did my undergrad in Cordoba, Argentina, on "Multiple Exoplanetary Systems", with Prof. Mercedes Gomez, and my PhD at the Laboratoire d’Astrophysique de Marseille,
