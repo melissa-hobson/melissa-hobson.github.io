@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Short bio
+I'm an astrophysicist working on exoplanet detection and characterization through radial velocities and transit photometry. I'm currently a postdoctoral researcher at the Max Planck Institute for Astronomy in Heidelberg, Germany, where I'm investigating warn giant planets.
 
 Research Interests
 ======
-TBD
+Exoplanets, Radial velocities, Transits
 
-Bla
+TBD
 ======
 1. TBD
