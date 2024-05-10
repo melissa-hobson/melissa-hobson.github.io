@@ -9,11 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+
+Employment
+=====
+* 2023-present: Postdoctoral researcher, Observatoire de Genève
+  * Topic: Discovery and characterization of small transiting exoplanets.
+  * Supervisors: Prof. François Bouchy \& Prof. Christophe Lovis.
+* 2021-2023: Postdoctoral researcher, Max Planck Institute for Astronomy
+  * Topic: Discovery and characterization of warm giant exoplanets.
+  * Supervisor: Prof. Thomas Henning.
+* 2019-2021: Postdoctoral researcher,Millennium Institute of Astrophysics MAS / Insituto de Astrofísica - PUC
+  * Topic: Discovery and characterization of warm giant exoplanets.
+  * Supervisor: Prof. Andrés Jordán.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2016-2019: PhD in Astrophysics and Cosmology,Laboratoire d'Astrophysique de Marseille, Université d'Aix-Marseille
+  * Thesis: “Exoplanet Detection Around M-dwarfs with Near Infrared and Visible Spectroscopy".
+  * Supervisors: Dr. Isabelle Boisse & Prof. François Bouchy.
+* 2009-2015: “Licenciatura” (5-year first degree) in Astronomy, Faculty of Mathematics, Astronomy, and Physics (FaMAF), National University of Córdoba
+  * Dissertation: “Multiple Exoplanetary Systems”.
+  * Supervisor: Prof. Mercedes Gomez.
 
 Work experience
 ======
@@ -27,14 +43,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +62,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Journal referee, Astronomy & Astrophysics, 2021-present.
+* HST External Panelist, cycle 31.
+* FEROS time pool coordination, 2021 - 2023.
+* WINE collaboration monthly meeting organiser, 2021 - 2023.
+* IA-PUC Postdoc co-representative, 2020-2021.
+* LAM Seminar Organising Committee member, 2017-2019.
+* LAM Planetary Systems Group Journal Club co-organiser, 2017-2019.
