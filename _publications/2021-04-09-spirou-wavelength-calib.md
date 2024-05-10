@@ -8,7 +8,7 @@ venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2021/04/aa38413-20/aa38413-20.html'
 citation: 'Hobson, M.J. et al. (2021). &quot;The SPIRou wavelength calibration for precise radial velocities in the near infrared.&quot; <i>Astronomy & Astrophysics</i>. 648, A48.'
 ---
-*Aims*. SPIRou is a near-infrared (nIR) spectropolarimeter at the CFHT, covering the YJHK nIR spectral bands (980 − 2350 nm). We describe the development and current status of the SPIRou wavelength calibration in order to obtain precise radial velocities (RVs) in the nIR.
+*Aims*. SPIRou is a near-infrared (nIR) spectropolarimeter at the CFHT, covering the YJHK nIR spectral bands (980 − 2350 nm). We describe the development and current status of the SPIRou wavelength calibration in order to obtain precise radial velocities (RVs) in the nIR. 
 
 *Methods*. We make use of a UNe hollow-cathode lamp and a Fabry-Pérot étalon to calibrate the pixel-wavelength correspondence for SPIRou. Different methods are developed for identifying the hollow-cathode lines, for calibrating the wavelength dependence of the Fabry-Pérot cavity width, and for combining the two calibrators.
 
