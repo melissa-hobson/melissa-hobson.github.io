@@ -1,7 +1,7 @@
 ---
 title: "The SPIRou wavelength calibration for precise radial velocities in the near infrared"
 collection: publications
-permalink: /publication/spirou-wavelength-calib
+permalink: /publication/2021-04-09-spirou-wavelength-calib
 excerpt: 'This paper describes the development of the SPIRou wavelength calibration using a UNe hollow-cathode lamp and a Fabry-Pérot étalon.'
 date: 2021-04-09
 venue: 'Astronomy & Astrophysics'
