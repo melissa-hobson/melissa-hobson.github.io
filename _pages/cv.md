@@ -11,7 +11,7 @@ redirect_from:
 
 
 Employment
-=====
+======
 * 2023-present: Postdoctoral researcher, Observatoire de Genève
   * Topic: Discovery and characterization of small transiting exoplanets.
   * Supervisors: Prof. François Bouchy \& Prof. Christophe Lovis.
@@ -30,18 +30,6 @@ Education
 * 2009-2015: “Licenciatura” (5-year first degree) in Astronomy, Faculty of Mathematics, Astronomy, and Physics (FaMAF), National University of Córdoba
   * Dissertation: “Multiple Exoplanetary Systems”.
   * Supervisor: Prof. Mercedes Gomez.
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 
 Recent Publications (first author)
@@ -49,18 +37,24 @@ Recent Publications (first author)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  
+Mentoring
+======
+* Supervision of Michael Kreuziger's bachelor thesis at MPIA, 2023.
+* Supervision of Giannina Boggiano Beiza's undergrad thesis at the Pontificia Universidad Católica de Chile, 2021.
+
+Teaching
+======
+* 2017-2019: Tutor, Maths department, Université Aix-Marseille
+* 2015: Teaching Assistant, Astrometry I, Faculty of Maths, Astronomy, and Physics (FaMAF), National University of Córdoba
+
   
 Service 
 ======
@@ -71,3 +65,9 @@ Service
 * IA-PUC Postdoc co-representative, 2020-2021.
 * LAM Seminar Organising Committee member, 2017-2019.
 * LAM Planetary Systems Group Journal Club co-organiser, 2017-2019.
+
+Languages
+======
+* Spanish: Native speaker.
+* English: Native speaker.
+* French: Very good command.
