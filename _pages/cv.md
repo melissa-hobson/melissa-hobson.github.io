@@ -41,7 +41,7 @@ Recent Publications (first author)
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
   
