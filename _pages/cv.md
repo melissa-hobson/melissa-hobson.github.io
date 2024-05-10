@@ -14,7 +14,7 @@ Employment
 ---------------
 * 2023-present: Postdoctoral researcher, Observatoire de Genève
   * Topic: Discovery and characterization of small transiting exoplanets.
-  * Supervisors: Prof. François Bouchy \& Prof. Christophe Lovis.
+  * Supervisors: Prof. François Bouchy & Prof. Christophe Lovis.
 * 2021-2023: Postdoctoral researcher, Max Planck Institute for Astronomy
   * Topic: Discovery and characterization of warm giant exoplanets.
   * Supervisor: Prof. Thomas Henning.
