@@ -18,13 +18,13 @@ Employment
 * 2021-2023: Postdoctoral researcher, Max Planck Institute for Astronomy
   * Topic: Discovery and characterization of warm giant exoplanets.
   * Supervisor: Prof. Thomas Henning.
-* 2019-2021: Postdoctoral researcher,Millennium Institute of Astrophysics MAS / Insituto de Astrofísica - PUC
+* 2019-2021: Postdoctoral researcher, Millennium Institute of Astrophysics MAS / Insituto de Astrofísica - PUC
   * Topic: Discovery and characterization of warm giant exoplanets.
   * Supervisor: Prof. Andrés Jordán.
 
 Education
 ---------------
-* 2016-2019: PhD in Astrophysics and Cosmology,Laboratoire d'Astrophysique de Marseille, Université d'Aix-Marseille
+* 2016-2019: PhD in Astrophysics and Cosmology, Laboratoire d'Astrophysique de Marseille, Université d'Aix-Marseille
   * Thesis: “Exoplanet Detection Around M-dwarfs with Near Infrared and Visible Spectroscopy".
   * Supervisors: Dr. Isabelle Boisse & Prof. François Bouchy.
 * 2009-2015: “Licenciatura” (5-year first degree) in Astronomy, Faculty of Mathematics, Astronomy, and Physics (FaMAF), National University of Córdoba
