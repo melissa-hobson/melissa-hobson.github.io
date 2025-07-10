@@ -47,6 +47,7 @@ Talks
   
 Mentoring
 ---------------
+* Supervision of Sidney Oe's TP3 bachelor project at the Observatoire de Genève, 2025
 * Supervision of Michael Kreuziger's bachelor thesis at MPIA, 2023.
 * Supervision of Giannina Boggiano Beiza's undergrad thesis at the Pontificia Universidad Católica de Chile, 2021.
 
@@ -59,6 +60,8 @@ Teaching
 Service 
 ---------------
 * Journal referee, Astronomy & Astrophysics, 2021-present.
+* SOC co-chair for Special Session 1, "PLATO's Prospects in Exoplanet and Stellar Science", EAS 2025
+* JWST Exoplanet Atmospheres \& Habitability Discussion Panelist, cycle 4.
 * HST External Panelist, cycle 31.
 * FEROS time pool coordination, 2021 - 2023.
 * WINE collaboration monthly meeting organiser, 2021 - 2023.
@@ -71,3 +74,5 @@ Languages
 * Spanish: Native speaker.
 * English: Native speaker.
 * French: Very good command.
+* German: basic level.
+* Dutch: basic level.
