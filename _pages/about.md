@@ -12,9 +12,9 @@ About Me
 ======
 I'm an astrophysicist working on exoplanet detection and characterization through radial velocities and transit photometry. 
 
-I'm currently a postdoctoral researcher at the Observatoire de Genève, where I'm investigating small transiting planets. 
+I'm currently a postdoctoral researcher at the Institut de Planétologie et d’Astrophysique de Grenoble, working on small transiting planets with NIRPS.
 
-Previously, I did my undergrad in Cordoba, Argentina, on "Multiple Exoplanetary Systems", with Prof. Mercedes Gomez, and my PhD at the Laboratoire d’Astrophysique de Marseille, Université d’Aix-Marseille, France, on “Exoplanet Detection Around M-dwarfs with Near Infrared and Visible Spectroscopy", with Dr. Isabelle Boisse & Prof. François Bouchy. I was then a postdoctoral researcher for the WINE (Warm gIaNts with tEss) collaboration, first at the Pontificia Universidad Catolica in Santiago, Chile for two years, followed by two years at the Max Planck Institute for Astronomy in Heidelberg, Germany. 
+Previously, I did my undergrad in Cordoba, Argentina, on "Multiple Exoplanetary Systems", with Prof. Mercedes Gomez, and my PhD at the Laboratoire d’Astrophysique de Marseille, Université d’Aix-Marseille, France, on “Exoplanet Detection Around M-dwarfs with Near Infrared and Visible Spectroscopy", with Dr. Isabelle Boisse & Prof. François Bouchy. I was then a postdoctoral researcher for the WINE (Warm gIaNts with tEss) collaboration, first at the Pontificia Universidad Catolica in Santiago, Chile for two years, followed by two years at the Max Planck Institute for Astronomy in Heidelberg, Germany. Subsequently, I was a postdoctoral researcher at the Observatoire de Genève, where I investigated small transiting planets.
 
 Research Interests
 ======

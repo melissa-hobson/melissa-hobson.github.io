@@ -83,11 +83,11 @@ author:
   name             : "Dr. Melissa J. Hobson"
   avatar           : "profile.jpg"
   bio              : "I'm an astrophysicist working on exoplanet detection and characterization. "
-  location         : "Observatoire de Genève, Switzerland"
+  location         : "IPAG, Grenoble, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : melissa.hobson@unige.ch
+  email            : melissa.hobson@univ-grenoble-alpes.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
