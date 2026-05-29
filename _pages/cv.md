@@ -12,7 +12,10 @@ redirect_from:
 
 Employment
 ---------------
-* 2023-present: Postdoctoral researcher, Observatoire de Genève
+* 2026-present: Postdoctoral researcher, Institut de Planétologie et d’Astrophysique de Grenoble
+  * Topic: Small transiting exoplanets with NIRPS.
+  * Supervisor: Prof. Xavier Bonfils.
+* 2023-2026: Postdoctoral researcher, Observatoire de Genève
   * Topic: Discovery and characterization of small transiting exoplanets.
   * Supervisors: Prof. François Bouchy & Prof. Christophe Lovis.
 * 2021-2023: Postdoctoral researcher, Max Planck Institute for Astronomy
