@@ -37,7 +37,7 @@ Education
 
 Recent Publications (first author)
 ---------------
-  <ul>{% for post in site.publications reversed limit:3 offset:9 %}
+  <ul>{% for post in site.publications reversed limit:3 offset:10 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
