@@ -64,8 +64,9 @@ Service
 ---------------
 * Journal referee, Astronomy & Astrophysics, 2021-present.
 * SOC co-chair for Special Session 1, "PLATO's Prospects in Exoplanet and Stellar Science", EAS 2025
-* JWST Exoplanet Atmospheres \& Habitability Discussion Panelist, cycle 4.
+* JWST Exoplanet Atmospheres & Habitability Discussion Panelist, cycle 4.
 * HST External Panelist, cycle 31.
+* ESPRESSO GTO WG3 meeting organiser, 2023-present.
 * FEROS time pool coordination, 2021 - 2023.
 * WINE collaboration monthly meeting organiser, 2021 - 2023.
 * IA-PUC Postdoc co-representative, 2020-2021.
@@ -74,8 +75,8 @@ Service
 
 Languages
 ---------------
-* Spanish: Native speaker.
-* English: Native speaker.
-* French: Very good command.
+* Spanish: native speaker.
+* English: native speaker.
+* French: very good command.
 * German: basic level.
 * Dutch: basic level.
