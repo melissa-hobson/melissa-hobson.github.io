@@ -43,6 +43,12 @@ Recent Publications (first author)
 
 Talks
 ---------------
+Invited talks
+  <ul>{% for post in site.talksinv reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Contributed talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
